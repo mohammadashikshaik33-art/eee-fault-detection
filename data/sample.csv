@@ -1,0 +1,6 @@
+voltage,current,temperature,label
+260,10,35,fault
+170,12,33,fault
+220,11,30,normal
+300,14,40,fault
+180,9,28,normal
